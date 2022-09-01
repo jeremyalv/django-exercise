@@ -1,2 +1,2 @@
-web: gunicorn firstproject.wsgi --log-file -
+web: gunicorn firstdjangoprojectjere.wsgi --log-file -
 
