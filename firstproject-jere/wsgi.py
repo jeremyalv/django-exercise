@@ -1,5 +1,5 @@
 """
-WSGI config for firstproject project.
+WSGI config for firstproject-jere project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
